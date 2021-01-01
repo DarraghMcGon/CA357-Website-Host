@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CA357-Website-Host/static/css/main.2337aa5f.chunk.css",
+    "main.css": "/CA357-Website-Host/static/css/main.182451a3.chunk.css",
     "main.js": "/CA357-Website-Host/static/js/main.8b99b325.chunk.js",
     "main.js.map": "/CA357-Website-Host/static/js/main.8b99b325.chunk.js.map",
     "runtime-main.js": "/CA357-Website-Host/static/js/runtime-main.a351a7b3.js",
@@ -12,7 +12,7 @@
     "static/js/3.7803c580.chunk.js.map": "/CA357-Website-Host/static/js/3.7803c580.chunk.js.map",
     "index.html": "/CA357-Website-Host/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/CA357-Website-Host/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.2337aa5f.chunk.css.map": "/CA357-Website-Host/static/css/main.2337aa5f.chunk.css.map",
+    "static/css/main.182451a3.chunk.css.map": "/CA357-Website-Host/static/css/main.182451a3.chunk.css.map",
     "static/js/2.afd8724a.chunk.js.LICENSE.txt": "/CA357-Website-Host/static/js/2.afd8724a.chunk.js.LICENSE.txt",
     "static/media/Graphics-Card.a1e1da56.png": "/CA357-Website-Host/static/media/Graphics-Card.a1e1da56.png",
     "static/media/Hero-Image-1.e79248ba.jpg": "/CA357-Website-Host/static/media/Hero-Image-1.e79248ba.jpg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.a351a7b3.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.afd8724a.chunk.js",
-    "static/css/main.2337aa5f.chunk.css",
+    "static/css/main.182451a3.chunk.css",
     "static/js/main.8b99b325.chunk.js"
   ]
 }
