@@ -1,0 +1,11 @@
+html,body{
+    overflow: auto;
+}
+#sidebar-container{
+    color:#F8F9FA;
+}
+
+#page-content-container {
+    background-color: #ffffff;
+    min-height: 100vh;
+}

@@ -1,0 +1,68 @@
+.InfoWrapper{
+    background-color: rgb(49, 49, 49);
+    width: 100%;
+}
+
+.info h1{
+  color: whitesmoke;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.info{
+  display: inline-block;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.info .info_member{
+  background-image: linear-gradient(to top right,rgb(49, 49, 49), #4dacf5, rgb(49, 49, 49));
+  margin-bottom: 50px;
+  padding: 20px;
+  color: #fff;  
+  border-radius: 15px 50px;
+  border-style: None;
+  border-width: thick;
+}
+
+.info .info_member h3{
+  color: black;
+  font-size: 26px;
+  margin-bottom: 30px;
+}
+
+.info .info_member p.role{
+  color: rgb(99, 80, 80);
+  margin: 16px 0;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.info .info_member dt{
+    margin-bottom: 5px;
+}
+.info .info_member dd{
+    margin-bottom: 30px;
+}
+
+.tstyle{
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tstyle td{
+    color: black;
+    border: 1px solid #4dacf5;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.gigs{
+    background-color: #71c2ff;
+}
+
+.graphics{
+    font-weight: 700;
+}
