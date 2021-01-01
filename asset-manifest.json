@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/CA357-Website-Host/static/css/main.2337aa5f.chunk.css",
+    "main.js": "/CA357-Website-Host/static/js/main.8b99b325.chunk.js",
+    "main.js.map": "/CA357-Website-Host/static/js/main.8b99b325.chunk.js.map",
+    "runtime-main.js": "/CA357-Website-Host/static/js/runtime-main.a351a7b3.js",
+    "runtime-main.js.map": "/CA357-Website-Host/static/js/runtime-main.a351a7b3.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/CA357-Website-Host/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.afd8724a.chunk.js": "/CA357-Website-Host/static/js/2.afd8724a.chunk.js",
+    "static/js/2.afd8724a.chunk.js.map": "/CA357-Website-Host/static/js/2.afd8724a.chunk.js.map",
+    "static/js/3.7803c580.chunk.js": "/CA357-Website-Host/static/js/3.7803c580.chunk.js",
+    "static/js/3.7803c580.chunk.js.map": "/CA357-Website-Host/static/js/3.7803c580.chunk.js.map",
+    "index.html": "/CA357-Website-Host/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/CA357-Website-Host/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.2337aa5f.chunk.css.map": "/CA357-Website-Host/static/css/main.2337aa5f.chunk.css.map",
+    "static/js/2.afd8724a.chunk.js.LICENSE.txt": "/CA357-Website-Host/static/js/2.afd8724a.chunk.js.LICENSE.txt",
+    "static/media/Graphics-Card.a1e1da56.png": "/CA357-Website-Host/static/media/Graphics-Card.a1e1da56.png",
+    "static/media/Hero-Image-1.e79248ba.jpg": "/CA357-Website-Host/static/media/Hero-Image-1.e79248ba.jpg",
+    "static/media/Hero-Image-2.6ed8455a.jpg": "/CA357-Website-Host/static/media/Hero-Image-2.6ed8455a.jpg",
+    "static/media/Hero-Image-3.7f739077.jpg": "/CA357-Website-Host/static/media/Hero-Image-3.7f739077.jpg",
+    "static/media/Processor-Image.ae5a10bb.jpg": "/CA357-Website-Host/static/media/Processor-Image.ae5a10bb.jpg",
+    "static/media/Ram-Image.918c6a0c.jpg": "/CA357-Website-Host/static/media/Ram-Image.918c6a0c.jpg",
+    "static/media/Storage-Image.dff25c3f.jpg": "/CA357-Website-Host/static/media/Storage-Image.dff25c3f.jpg",
+    "static/media/dell-optiplex.dc965a6d.png": "/CA357-Website-Host/static/media/dell-optiplex.dc965a6d.png",
+    "static/media/g-pro-wireless.68f83ab3.png": "/CA357-Website-Host/static/media/g-pro-wireless.68f83ab3.png",
+    "static/media/hp-envy.e45c224e.png": "/CA357-Website-Host/static/media/hp-envy.e45c224e.png",
+    "static/media/inspiron-15.a997b503.png": "/CA357-Website-Host/static/media/inspiron-15.a997b503.png",
+    "static/media/macbook-air.ebc165f4.png": "/CA357-Website-Host/static/media/macbook-air.ebc165f4.png",
+    "static/media/magic-mouse.8231a127.png": "/CA357-Website-Host/static/media/magic-mouse.8231a127.png",
+    "static/media/search.4f900622.png": "/CA357-Website-Host/static/media/search.4f900622.png",
+    "static/media/userIcon.9e7a8922.png": "/CA357-Website-Host/static/media/userIcon.9e7a8922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a351a7b3.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.afd8724a.chunk.js",
+    "static/css/main.2337aa5f.chunk.css",
+    "static/js/main.8b99b325.chunk.js"
+  ]
+}
