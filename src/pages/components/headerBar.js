@@ -12,7 +12,7 @@ function HeaderBar() {
     return (
         <>
             <Navbar collapseOnSelect expand="lg" bg="light" varient="dark">
-                <Navbar.Brand><Link to="/"><img src={TempLogo} alt="Temporary Company Logo" style={{width:"auto", height:"4vh"}} /></Link></Navbar.Brand>
+                <Navbar.Brand><Link to="/"><img src={TempLogo} alt="Conpany logo, link to home page" style={{width:"auto", height:"4vh"}} /></Link></Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbar" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto">

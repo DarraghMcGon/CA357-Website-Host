@@ -30,7 +30,7 @@ function ProductTile(product) {
         <Card>
             <Card.Body>
                 <Link to={`/product/${productState.title}`} style={{ color: 'inherit', textDecoration: 'inherit'}}>
-                    <Card.Img variant="top" src={productState.image} />
+                    <Card.Img variant="top" alt={productState.title} src={productState.image} />
                     <Card.Title>{productState.title}</Card.Title>
                     <Card.Subtitle>{productState.brand}</Card.Subtitle>
                     <div>${productState.price}</div>

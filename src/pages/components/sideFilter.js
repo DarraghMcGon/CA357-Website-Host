@@ -28,13 +28,13 @@ function SideFilter(props) {
                         <Form.Group controlId="products">
                             <Form.Label>Products</Form.Label>
                             {productState.map((product)=>{
-                            return(<Form.Check key={product} onChange={() => handleCheckChange(product, props.productFilter, props.setProductFilter)}  type="checkbox" label={product} />)
+                            return(<Form.Check key={product} onChange={() => handleCheckChange(product, props.productFilter, props.setProductFilter)} aria-label={product}  type="checkbox" label={product} />)
                             })}
                         </Form.Group>
                         <Form.Group controlId="brands">
                             <Form.Label>Brands</Form.Label>
                             {brandState.map((brand)=>{
-                            return(<Form.Check key={brand} onChange={() => handleCheckChange(brand, props.brandFilter, props.setBrandFilter)} type="checkbox" label={brand} />)
+                            return(<Form.Check key={brand} onChange={() => handleCheckChange(brand, props.brandFilter, props.setBrandFilter)} aria-label={brand} type="checkbox" label={brand} />)
                             })}
                         </Form.Group>
                         <Form.Group>
@@ -47,6 +47,7 @@ function SideFilter(props) {
                                 size="sm"
                                 id="minPrice"
                                 placeholder="Min"
+                                aria-label="Please enter minimum product price"
                             />
                             <Form.Control
                                 className="mb-1"
@@ -56,15 +57,16 @@ function SideFilter(props) {
                                 size="sm"
                                 id="maxPrice"
                                 placeholder="Max"
+                                aria-label="Please enter maximum product price"
                             />
                         </Form.Group>
                         <Form.Group controlId="brands">
                             <Form.Label>Brands</Form.Label>
-                            <FormCheck onChange={() => handleCheckChange(5, props.ratingFilter, props.setRatingFilter)} type="checkbox" label="★★★★★" />
-                            <FormCheck onChange={() => handleCheckChange(4, props.ratingFilter, props.setRatingFilter)} type="checkbox" label="★★★★☆" />
-                            <FormCheck onChange={() => handleCheckChange(3, props.ratingFilter, props.setRatingFilter)} type="checkbox" label="★★★☆☆" />
-                            <FormCheck onChange={() => handleCheckChange(2, props.ratingFilter, props.setRatingFilter)} type="checkbox" label="★★☆☆☆" />
-                            <FormCheck onChange={() => handleCheckChange(1, props.ratingFilter, props.setRatingFilter)} type="checkbox" label="★☆☆☆☆" />
+                            <FormCheck onChange={() => handleCheckChange(5, props.ratingFilter, props.setRatingFilter)} aria-label="5 star" type="checkbox" label="★★★★★" />
+                            <FormCheck onChange={() => handleCheckChange(4, props.ratingFilter, props.setRatingFilter)} aria-label="4 star" type="checkbox" label="★★★★☆" />
+                            <FormCheck onChange={() => handleCheckChange(3, props.ratingFilter, props.setRatingFilter)} aria-label="3 star" type="checkbox" label="★★★☆☆" />
+                            <FormCheck onChange={() => handleCheckChange(2, props.ratingFilter, props.setRatingFilter)} aria-label="2 star" type="checkbox" label="★★☆☆☆" />
+                            <FormCheck onChange={() => handleCheckChange(1, props.ratingFilter, props.setRatingFilter)} aria-label="1 star" type="checkbox" label="★☆☆☆☆" />
                         </Form.Group>
                     </Form>
                 </Nav>
