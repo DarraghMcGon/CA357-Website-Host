@@ -15,10 +15,10 @@ function App() {
         <UsernameProvider>
           <BasketProvider>
             <HeaderBar />
-            <Route path="/" exact component={LandingPage}/> 
             <Route path="/info" component={InfoPage}/> 
             <Route path="/shop" component={ShopPage}/>
             <Route path="/product/:product" component={ProductPage}/>
+            <Route path="/" component={LandingPage}/> 
           </BasketProvider>
         </UsernameProvider>
       </Switch>
